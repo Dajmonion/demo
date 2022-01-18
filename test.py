@@ -1,6 +1,5 @@
 class Time:
   """ Blueprint for a Time object"""
-#zmianydla giut hub
   def __init__(self):
      self.hour = 0
      self.minute = 0
