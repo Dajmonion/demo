@@ -6,7 +6,7 @@ class Time:
      self.second = 0
 
   def set_time(self, hour, minute, second):
-     self.hour = hour
+     self.hour = hourhttps://github.com/Dajmonion/demo/blob/damain/test.py
      self.minute = minute
      self.second = second
 
@@ -25,3 +25,4 @@ myTime2.set_time(12, 0, 0)
 print ("My two time objects are now storing:")
 myTime1.print_time()
 myTime2.print_time()
+test
